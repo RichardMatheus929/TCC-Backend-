@@ -1,3 +1,1 @@
-# TCC-Backend-
-
-Backend do projeto realizado para conclusão do técnico em informática UFRN
+Scripts utilizados no processo de ETL dos dados da FEBRACE no mongoDB
